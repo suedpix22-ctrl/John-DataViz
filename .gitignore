@@ -1,0 +1,11 @@
+# Ambientes e cache
+.venv/
+__pycache__/
+*.pyc
+
+# Configurações do PyCharm
+.idea/
+
+# Secrets — NUNCA subir credenciais
+.streamlit/secrets.toml
+secrets.toml
